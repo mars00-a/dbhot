@@ -1,3 +1,13 @@
+//说明："[]" 表示添加的信息不用加符号，若有其他符号则需要添加符号
+
 初始化--------------git init
 检测文件------------git status
-管理文件------------git add [文件名]
+管理文件------------git add [文件名]    //"."代表管理所有未管理文件
+生成一个版本--------git commit -m '说明'
+
+
+
+
+//Author identity unknown  错误解决办法
+设置用户名----------git config user.name "名字"
+设置用户邮箱--------git config user.email "邮箱"
