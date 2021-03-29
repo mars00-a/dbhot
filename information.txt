@@ -11,3 +11,6 @@
 //Author identity unknown  错误解决办法
 设置用户名----------git config user.name "名字"
 设置用户邮箱--------git config user.email "邮箱"
+
+
+一个小小的测试
